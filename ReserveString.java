@@ -3,7 +3,7 @@ package JavaHomeWork;
 public class ReserveString {
 
 	public static void main(String[] args) {
-		String str = "CELIL";
+		String str = "HAKAN";
 
 		// cevir(str);
 
