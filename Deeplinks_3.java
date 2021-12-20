@@ -18,11 +18,11 @@ public class Deeplinks_3 {
 	        
 	        System.out.println("Lutfen kredi kartı numaranızı giriniz");
 	        
-	        String kkNo=scan.next();
+	        String kkNo=scan.next(); // kredi kartı numarası uzerinde matematiksel işlem yapmıyacagımız için string olarak alırız
 	        
-	        adSoyad(isim,soyisim);
+	        adSoyad(isim,soyisim); // method call
 	        
-	        kk(kkNo);
+	        kk(kkNo);				// method call
 	        
 	        System.out.println(kk(kkNo));
 	        System.out.println(adSoyad(isim,soyisim));
