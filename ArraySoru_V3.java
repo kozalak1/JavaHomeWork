@@ -5,6 +5,14 @@ import java.util.Scanner;
 
 public class ArraySoru_V3 {
 
+	/* OCA Interview question
+	 * Create a function that takes an array and returns the difference between and
+	 * the smallest numbers. Ask user to enter array elements.
+	 * 
+	 * kullanıcının girdigi bir array'in en buyuk elemani ile en kucuk elemanının
+	 * farkını bulan bir method create ediniz.
+	 */
+
 	public static void main(String[] args) {
 		
 		 Scanner scan = new Scanner(System.in);
